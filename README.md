@@ -1,6 +1,6 @@
 # Hi There!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<p align="left">
+<p align="left" >
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=CauaHenrique19&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
 
@@ -14,7 +14,7 @@
 
 
 # Hard Skills!!
-
+<p align="justify">
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
@@ -26,7 +26,7 @@
  <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-%230d1117?style=for-the-badge&logo=sequelize&logoColor=white"/>
  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%230d1117?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230d1117?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+</p>
 
 # Socials
 <p align="justify">
